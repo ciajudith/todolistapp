@@ -30,7 +30,8 @@ class _ListOfTaskState extends State<ListOfTask> {
                   padding: EdgeInsets.only(left: 25),
                   child: Text(TaskList[i],style: TextStyle(
                     fontSize: 40,color: Colors.white
-                  ),),
+                  ),
+                  ),
 
                 )
               ],
